@@ -537,7 +537,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sveltejs/vite-plugin-svelte@npm:^3.0.0":
+"@sveltejs/vite-plugin-svelte@npm:^3.0.2":
   version: 3.0.2
   resolution: "@sveltejs/vite-plugin-svelte@npm:3.0.2"
   dependencies:
@@ -880,7 +880,7 @@ __metadata:
     "@playwright/test": "npm:^1.28.1"
     "@sveltejs/adapter-auto": "npm:^3.0.0"
     "@sveltejs/kit": "npm:^2.0.0"
-    "@sveltejs/vite-plugin-svelte": "npm:^3.0.0"
+    "@sveltejs/vite-plugin-svelte": "npm:^3.0.2"
     "@types/eslint": "npm:^8.56.0"
     eslint: "npm:^8.56.0"
     eslint-config-prettier: "npm:^9.1.0"
